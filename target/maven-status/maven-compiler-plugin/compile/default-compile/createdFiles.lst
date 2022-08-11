@@ -1,0 +1,6 @@
+com/pruebaJavaSpring/prueba/models/Auditoria.class
+com/pruebaJavaSpring/prueba/dao/AuditoriaDaoImp.class
+com/pruebaJavaSpring/prueba/controllers/AuditorController.class
+com/pruebaJavaSpring/prueba/dao/AuditoriaDao.class
+com/pruebaJavaSpring/prueba/PruebaApplication.class
+com/pruebaJavaSpring/prueba/ServletInitializer.class

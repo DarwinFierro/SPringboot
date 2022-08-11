@@ -1,0 +1,6 @@
+/home/bewe/personal/java/prueba/src/main/java/com/pruebaJavaSpring/prueba/PruebaApplication.java
+/home/bewe/personal/java/prueba/src/main/java/com/pruebaJavaSpring/prueba/dao/AuditoriaDaoImp.java
+/home/bewe/personal/java/prueba/src/main/java/com/pruebaJavaSpring/prueba/models/Auditoria.java
+/home/bewe/personal/java/prueba/src/main/java/com/pruebaJavaSpring/prueba/controllers/AuditorController.java
+/home/bewe/personal/java/prueba/src/main/java/com/pruebaJavaSpring/prueba/ServletInitializer.java
+/home/bewe/personal/java/prueba/src/main/java/com/pruebaJavaSpring/prueba/dao/AuditoriaDao.java
